@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reakabc
 - 👀 I’m interested in Software Development & Entrepreneurship
-- 🌱 I’m currently learning Kotlin, Advance concepts f Android along with Data Structure and Algorithms
+- 🌱 I’m currently learning Kotlin, Advance concepts of Android along with Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Entreprenership, Android Development & Programming
 - 📫 How to reach me ...
 - linkedin https://www.linkedin.com/in/reak-abc-73a8541b9/

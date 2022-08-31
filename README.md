@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin, Advance concepts of Android along with Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Entreprenership, Android Development & Programming
 - 📫 How to reach me ...
-- linkedin https://www.linkedin.com/in/reak-abc-73a8541b9/
+- linkedin https://www.linkedin.com/in/reakabc/
 - email nitishkumar020399@gmail.com
 
 
